@@ -16,7 +16,7 @@ The project structure is kept minimalistic, containing only the essential files 
 Live Project by Md Habibur Rahman
 
 ## Date of Completion
-1st February of 2024
+2nd February of 2024
 
 ## Acknowledgements
 
